@@ -1,9 +1,9 @@
 <div align="center" width="50">
 
- <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br>
+<img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif" alt="Coding Animation" width="60%"/>
 
-</div>
+<br>
+
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=1000&color=00A8FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Ikram+Ines+👋;<Hello+Coders+💻/>" />
