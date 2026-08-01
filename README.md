@@ -14,8 +14,6 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Ikram Ines
-
 🎓 Computer Science Student  
 🔐 Cybersecurity Enthusiast  
 💻 Web Developer  
