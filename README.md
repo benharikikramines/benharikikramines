@@ -110,19 +110,19 @@ class About extends Me {
 
 ## 💻 Code Cycle
 
+<div align="center">
+
+## 💻 Code Cycle
+
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="12%">
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked%20with%20Key.png" width="12%">
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Shield.png" width="12%">
-
-<br>
-
-💻 Coding &nbsp;&nbsp;&nbsp; 🔐 Security &nbsp;&nbsp;&nbsp; 🛡️ Protection
 
 </div>
 
