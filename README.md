@@ -10,18 +10,12 @@
 
 <br>
 
-<div align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2500&pause=1000&color=00A8FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Ikram+Ines+👋;<Hello+Coders+💻/>" />
-
-</div>
-
 <hr>
 
 <div align="center">
 
 🎓 Computer Science Student  
-🔐 Cybersecurity Enthusiast  
+🔐 Cybersecurity  
 💻 Web Developer  
 
 </div>
