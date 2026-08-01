@@ -108,9 +108,6 @@ class About extends Me {
 
 <div align="center">
 
-## 💻 Code Cycle
-
-
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="12%" />
 &nbsp;&nbsp;&nbsp;&nbsp;
